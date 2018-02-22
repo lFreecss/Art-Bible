@@ -7,19 +7,20 @@ Hi, I'm David, a student at the Polytechnic University of Catalonia. I have done
 An Art Bible is a document created by the Art Director to communicate to the art team exactly what style the art assets should match. Its main objective is to establish a guide document that contains the details of what the game is going to look. This document is created after the Game Design Document (GDD) and before any art production. 
 
 ### Principal Objectives
+
 The reason why this document is made has a serie of objectives that it tries to fulfill:
 * Explain the idea of art that will appear in our videogame
-* Consistency during art production
-* Helps the team understand the idea they want to make
-* It makes faster the decisions that will be made
+* Keep consistency in all the artistic elements of the game
+* Help the team get an idea of the game that is going to be done
+* Doubts are answered faster because we establish a series of guidelines
 * Help new members adapt faster to work
-* Help in marketing and communication
+* Help the marketing and communication sectors understand the game that is being done
      
 ### Main points to take into account while doing an Art Bible
-* Target Audience
-* Important ideas to new members
-* Understandable tips to all art members
-* Clarify information ton our sponsors
+* Target audience we want to reach
+* This document should make clear the most important ideas to new members
+* It must be a document that clarifies all the doubts of the members of the group
+* Make clear the concept of the game that you want to create to our sponsors
      
 ### Sources to help explain your Art Bible
 * Concept Art
