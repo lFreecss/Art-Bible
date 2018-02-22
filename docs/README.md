@@ -42,7 +42,7 @@ While creating the document, it is important to remember some tips:
 ### in case of limited/no art background
 * Gather and include good reference examples
 * Prepare color palettes in the images that best suit your purpose
-* Explore several art reference websites, such as: [pinterest](www.pinterest.com), [ArtStation](www.artstation.com), [Deviantart](https://www.deviantart.com/)...
+* Explore several art reference websites, such as: [Pinterest](www.pinterest.com), [ArtStation](www.artstation.com), [Deviantart](https://www.deviantart.com/)...
 
 ## Content of an Art Bible
 Art style
