@@ -45,65 +45,64 @@ The reason why this document is made has a serie of objectives that it tries to 
 * browse pinterest, behance, deviantart, etc.
 
 Art style
--> Environment Scale
--> Architectural Proportions
--> Characters Proportions
--> Technologies in use for hint of advancements
--> Methods of construction
--> Common/precious materials
--> Climate
--> time period
--> who lives in the environment
+* Environment Scale
+* Architectural Proportions
+* Characters Proportions
+* Technologies in use for hint of advancements
+* Methods of construction
+* Common/precious materials
+* Climate
+* time period
+* who lives in the environment
 Character Art
--> Expresions
--> Posing
--> Height Scale comparison
--> Color Palette
--> Costume/Drapery
--> Style and construction
+* Expresions
+* Posing
+* Height Scale comparison
+* Color Palette
+* Costume/Drapery
+* Style and construction
 L.O.D /Level of details
--> Differences of detail in narrative, gamepla and UI
--> how to achieve increase/decrease in details
--> what and what not to detail
--> Character details 
--> Architectural details
+* Differences of detail in narrative, gamepla and UI
+* how to achieve increase/decrease in details
+* what and what not to detail
+* Character details 
+* Architectural details
 Camera
--> Camera Fx
--> Narrative/story sequences
--> Handling multiple output formats
--> field of view
--> Gameplay angle and character position
+* Camera Fx
+* Narrative/story sequences
+* Handling multiple output formats
+* field of view
+* Gameplay angle and character position
 Color Palette
--> Color Swatches
--> Vibrance and values
--> Environments with distinctly different palette choices
--> Saturation 
--> Hues
+* Color Swatches
+* Vibrance and values
+* Environments with distinctly different palette choices
+* Saturation 
+* Hues
 Atmosphere/environment
--> Scale
--> Openness
--> Weather Conditions
--> Scheme
+* Scale
+* Openness
+* Weather Conditions
+* Scheme
 Texture & surface
 User interface
--> Animations !!!
--> Menu items and hud
--> Interface design technique
--> UX (user experience)
+* Animations !!!
+* Menu items and hud
+* Interface design technique
+* UX (user experience)
 Technical Guidelines
--> Exporting
--> Naming Conventions
--> Resource Collection and structuring 
--> Limitations
--> Tools to use
+* Exporting
+* Naming Conventions
+* Resource Collection and structuring 
+* Limitations
+* Tools to use
 References
--> Ilustrations
--> Photographs
--> Comics
--> Videos and movies
--> Games
--> Ads
-
+* Ilustrations
+* Photographs
+* Comics
+* Videos and movies
+* Games
+* Ads
 
 ## Bibliography
 ### Information
