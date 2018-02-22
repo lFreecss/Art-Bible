@@ -2,11 +2,11 @@
 
 Hi, I'm David, a student at the Polytechnic University of Catalonia. I have done a research on how to make an Art Bible during the realization of my second college career project.
 ## General Tips
-# What's an Art Bible?
+### What's an Art Bible?
 
 An Art Bible is a document created by the Art Director to communicate to the art team exactly what style the art assets should match. Its main objective is to establish a guide document that contains the details of what the game is going to look. This document is created after the Game Design Document (GDD) and before any art production. 
 
-# Principal Objectives
+### Principal Objectives
 The reason why this document is made has a serie of objectives that it tries to fulfill:
 * Explain the idea of art that will appear in our videogame
 * Consistency during art production
@@ -15,13 +15,13 @@ The reason why this document is made has a serie of objectives that it tries to 
 * Help new members adapt faster to work
 * Help in marketing and communication
      
-# Main points to take into account while doing an Art Bible
+### Main points to take into account while doing an Art Bible
 * Target Audience
 * Important ideas to new members
 * Understandable tips to all art members
 * Clarify information ton our sponsors
      
-# Sources to help explain your Art Bible
+### Sources to help explain your Art Bible
 * Concept Art
 * Photograpy
 * Simple Models
@@ -30,7 +30,7 @@ The reason why this document is made has a serie of objectives that it tries to 
 * Work from other media
      
 ## Content of an Art Bible
-# First steps to keep in mind
+### First steps to keep in mind
 * Blocks of text can be explain with visual content
 * Combine images to communicate 
 * Prefer format suited to the team
@@ -38,7 +38,7 @@ The reason why this document is made has a serie of objectives that it tries to 
 * Caption your images
 * source your content
 
-# in case of limited/no art background
+### in case of limited/no art background
 * gather and include good reference examples
 * prepare palette using palettefx.com on visuals you like
 * use color scheme designer for color choices
@@ -106,14 +106,14 @@ References
 
 
 ## Bibliography
-# Information
+### Information
 * [Art Videogame Rols](https://www.devuego.es/blog/2015/05/08/roles-en-la-creacion-de-videojuegos-iii-el-arte/)
 * [Creating Art Bible](https://www.gamedev.net/forums/topic/552212-creating-art-biblestyle-guide/)
 * [Videogame Color Theory](https://danielrparente.wordpress.com/tag/direccion-de-arte-en-videojuegos/)
 * [Value of Communicating in Art](https://www.gamasutra.com/blogs/AndreaCordella/20160711/276701/The_Value_of_Communication_in_Art_Outsourcing_Best_Practices_to_Ensure_Quality.php)
 * [Game Art Bible](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art)
 * [Color in Games](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php)
-# Videogames Art Bible Examples
+### Videogames Art Bible Examples
 * [Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html)
 * [Allods Online](http://shurick.livejournal.com/195876.html)
 * [Dota2](https://support.steampowered.com/kb/8700-SJKN-4322/dota-2-character-texture-guide)
