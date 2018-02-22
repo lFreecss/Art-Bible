@@ -30,21 +30,21 @@ The reason why this document is made has a serie of objectives that it tries to 
 * Completed Assets
 * Work from other media
      
-## Content of an Art Bible
+## During Art bible
 ### First steps to keep in mind
-* Blocks of text can be explain with visual content
-* Combine images to communicate 
-* Prefer format suited to the team
-* versioning
-* Caption your images
-* source your content
+
+While creating the document, it is important to remember some tips:
+* Adding a lot of text can complicate an explanation, it is much better to resort to visual content
+* Agree the formats and tools that best suit the team
+* Add small descriptions to the images and highlight important parts
+* You can add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element
 
 ### in case of limited/no art background
-* gather and include good reference examples
-* prepare palette using palettefx.com on visuals you like
-* use color scheme designer for color choices
-* browse pinterest, behance, deviantart, etc.
+* Gather and include good reference examples
+* Prepare color palettes in the images that best suit your purpose
+* Explore several art reference websites, such as: [pinterest](www.pinterest.com], [ArtStation](www.artstation.com), [Deviantart](https://www.deviantart.com/)...
 
+## Content of an Art Bible
 Art style
 * Environment Scale
 * Architectural Proportions
