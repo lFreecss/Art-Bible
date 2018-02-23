@@ -159,6 +159,8 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Limitations. Set a limit of weight and content to the files.
 * Tools to use.
 
+![Exporting](Exporting.png)
+
 ## Bibliography
 ### Information
 * [Art Videogame Rols](https://www.devuego.es/blog/2015/05/08/roles-en-la-creacion-de-videojuegos-iii-el-arte/)
