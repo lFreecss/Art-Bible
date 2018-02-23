@@ -39,6 +39,7 @@ While creating the document, it is important to remember some tips:
 * Agree the formats and tools that best suit the team
 * Add small descriptions to the images and highlight important parts
 * You can add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element
+
 ![Modifications](Images/Modifications.jpg)
 ![Steps](Images/Steps.jpg)
 
