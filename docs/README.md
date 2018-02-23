@@ -87,7 +87,7 @@ What elements stand out in our characters:
 * Color Palette.
 * Costume/Drapery.
 * Style and construction.
-* Animations
+* Animations.
 
 ### Atmosphere/environment
 
@@ -98,7 +98,7 @@ As with our characters, we must choose how to organize the environment of the en
 * Props and other objects.
 * Color palette.
 * Style and construction.
-* Animations
+* Animations.
 
 ### Color Palette
 
@@ -129,10 +129,10 @@ We designate a set of colors suitable for the decoration of a certain element so
 
 ### Technical Guidelines
 
-* Exporting. It is important to know in what formats we are going to save the files
-* Naming Conventions. Nomenclature
+* Exporting. It is important to know in what formats we are going to save the files.
+* Naming Conventions. Nomenclature.
 * Resource Collection and structuring. What system will we use to structure the game files?
-* Limitations. Set a limit of weight and content to the files
+* Limitations. Set a limit of weight and content to the files.
 * Tools to use.
 
 ## Bibliography
