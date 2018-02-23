@@ -64,6 +64,8 @@ Before starting to establish an art style, we should first look for references o
 * Games.
 * Ads.
 
+![Rules](Images/References.png)
+
 ### Art style
 
 Once we have obtained our references, we have to apply an identifiable set of characteristics that allow us to group a series of works or authors, which will share stable elements in terms of their form and contents. In these elements we must take into account:
@@ -75,6 +77,9 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 * Climate.
 * Time period.
 * Who lives in the environment.
+
+![Environment](Images/Environment.png)
+![Scale](Images/55542332.jpg)
 
 ### L.O.D /Level of details
 
