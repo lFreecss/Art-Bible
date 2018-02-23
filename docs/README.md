@@ -159,7 +159,7 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Limitations. Set a limit of weight and content to the files.
 * Tools to use.
 
-![Exporting](Exporting.png)
+![Exporting](Images/Exporting.png)
 
 ## Bibliography
 ### Information
