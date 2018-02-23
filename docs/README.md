@@ -122,18 +122,18 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Graphin patterns. To add some details/effects to the texture.
 
 ### User interface
+
 * Font.
 * Animations.
 * Menu items and hud.
-* Interface design technique.
-* Animations.
 
 ### Technical Guidelines
-* Exporting
-* Naming Conventions
-* Resource Collection and structuring 
-* Limitations
-* Tools to use
+
+* Exporting. It is important to know in what formats we are going to save the files
+* Naming Conventions. Nomenclature
+* Resource Collection and structuring. What system will we use to structure the game files?
+* Limitations. Set a limit of weight and content to the files
+* Tools to use.
 
 ## Bibliography
 ### Information
