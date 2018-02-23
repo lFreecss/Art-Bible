@@ -131,6 +131,11 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Color Map. The majority of the painting will done in the color layers.
 * Graphin patterns. To add some details/effects to the texture.
 
+![1](Images/590_01-DefiningColor_notext_02.jpg)
+![2](590_02-AmbientOcclusion_notext_01.jpg)
+![3](590_05-ColorMap_notext_01.jpg)
+![4](590_07-GraphicPatterns_notext_01.jpg)
+
 ### User interface
 
 * Font.
