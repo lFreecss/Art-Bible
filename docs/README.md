@@ -9,26 +9,26 @@ An Art Bible is a document created by the Art Director to communicate to the art
 ### Principal Objectives
 
 The reason why this document is made has a serie of objectives that it tries to fulfill:
-* Explain the idea of art that will appear in our videogame
-* Keep consistency in all the artistic elements of the game
-* Help the team get an idea of the game that is going to be done
-* Doubts are answered faster because we establish a series of guidelines
-* Help new members adapt faster to work
-* Help the marketing and communication sectors understand the game that is being done
+* Explain the idea of art that will appear in our videogame.
+* Keep consistency in all the artistic elements of the game.
+* Help the team get an idea of the game that is going to be done.
+* Doubts are answered faster because we establish a series of guidelines.
+* Help new members adapt faster to work.
+* Help the marketing and communication sectors understand the game that is being done.
      
 ### Main points to take into account while doing an Art Bible
-* Target audience we want to reach
-* This document should make clear the most important ideas to new members
-* It must be a document that clarifies all the doubts of the members of the group
-* Make clear the concept of the game that you want to create to our sponsors
+* Target audience we want to reach.
+* This document should make clear the most important ideas to new members.
+* It must be a document that clarifies all the doubts of the members of the group.
+* Make clear the concept of the game that you want to create to our sponsors.
      
 ### Sources to help explain your Art Bible
-* Concept Art
-* Photograpy
-* Simple Models
-* Diagrams
-* Completed Assets
-* Work from other media
+* Concept Art.
+* Photograpy.
+* Simple Models.
+* Diagrams.
+* Completed Assets.
+* Work from other media.
      
 ## During Art bible
 ### First steps to keep in mind
@@ -39,35 +39,60 @@ While creating the document, it is important to remember some tips:
 * Add small descriptions to the images and highlight important parts
 * You can add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element
 
-### in case of limited/no art background
-* Gather and include good reference examples
-* Prepare color palettes in the images that best suit your purpose
+### In case of limited/no art background
+
+If it is the case that our team does not stand out in the artistic field you can always follow these tips:
+* Gather and include good reference examples.
+* Prepare color palettes in the images that best suit your purpose.
 * Explore several art reference websites, such as: [Pinterest](www.pinterest.com), [ArtStation](www.artstation.com), [Deviantart](https://www.deviantart.com/)...
 
 ## Content of an Art Bible
-Art style
-* Environment Scale
-* Architectural Proportions
-* Characters Proportions
-* Technologies in use for hint of advancements
-* Methods of construction
-* Common/precious materials
-* Climate
-* time period
-* who lives in the environment
-Character Art
+### References
+
+Before starting to establish an art style, we should first look for references of elements similar to what we intend to achieve. The main sources to which to look for references would be:
+* Ilustrations.
+* Photographs.
+* Comics.
+* Videos and movies.
+* Games.
+* Ads.
+
+### Art style
+
+Once we have obtained our references, we have to apply an identifiable set of characteristics that allow us to group a series of works or authors, which will share stable elements in terms of their form and contents. In these elements we must take into account:
+* Environment Scale.
+* Architectural Proportions.
+* Characters Proportions.
+* Technologies in use for hint of advancements.
+* Methods of construction.
+* Climate.
+* Time period.
+* Who lives in the environment.
+
+### L.O.D /Level of details
+
+Depending on the artistic style chosen, you have to take into account the level of detail you want to reach. For example, a videogame centered on a cartoon style will not demand a level of detail equal to a realistic style videogame. The points taken into account in the level of detail are:
+* The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. An example would be when in League of Legends you choose a character that presents a high level of detail in the UI and then, in gameplay is a simpler model.
+* How to achieve increase/decrease in details. Here we establish keys that would help a little detailed element transmit a lot of detail or how to extract details to an element that goes beyond the established detail.
+* What and what not to detail. It is important to take into account the important characteristics of an element that must be detailed and those that are not so important.
+* Character details. 
+* Architectural details.
+
+### Character Art
+
 * Expresions
 * Posing
 * Height Scale comparison
 * Color Palette
 * Costume/Drapery
 * Style and construction
-L.O.D /Level of details
-* Differences of detail in narrative, gamepla and UI
-* how to achieve increase/decrease in details
-* what and what not to detail
-* Character details 
-* Architectural details
+
+Atmosphere/environment
+* Scale
+* Openness
+* Weather Conditions
+* Scheme
+* Props and other objects
 Camera
 * Camera Fx
 * Narrative/story sequences
@@ -80,30 +105,20 @@ Color Palette
 * Environments with distinctly different palette choices
 * Saturation 
 * Hues
-Atmosphere/environment
-* Scale
-* Openness
-* Weather Conditions
-* Scheme
+
 Texture & surface
+Animations
 User interface
-* Animations !!!
+* Font 
+* Animations 
 * Menu items and hud
 * Interface design technique
-* UX (user experience)
 Technical Guidelines
 * Exporting
 * Naming Conventions
 * Resource Collection and structuring 
 * Limitations
 * Tools to use
-References
-* Ilustrations
-* Photographs
-* Comics
-* Videos and movies
-* Games
-* Ads
 
 ## Bibliography
 ### Information
