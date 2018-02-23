@@ -178,3 +178,4 @@ We designate a set of colors suitable for the decoration of a certain element so
 * [Kingsbridge](https://www.gamasutra.com/blogs/SamuliSnellman/20130702/194913/The_Art_of_Kingsbridge_Bridging_casual_to_core.php)
 * [Punch Clubs](https://www.gamasutra.com/blogs/AlexNichiporchik/20161205/286829/Punch_Clubs_guide_to_Pixel_Art.php)
 * [The Trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf)
+* [Define and Evolving Overwatch Art](https://www.gamasutra.com/view/news/294063/Video_Defining_and_evolving_the_art_direction_of_Overwatch.php)
