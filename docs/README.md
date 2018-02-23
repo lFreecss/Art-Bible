@@ -45,6 +45,7 @@ While creating the document, it is important to remember some tips:
 * Add small descriptions to the images and highlight important parts
 * You can add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element
 * COLOR! Color is one of the most important factors for the viewing of a video game. We could talk a lot of things about color but I attach an article that perfectly explains all the things to take into account. [Color in games](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php)
+* There can be many sections of art, you can always establish a communication structure between sectors based on colors. For example, there are artists who are only responsible for drawing clothes in general, you can establish that the concept art made in red are those of the enemies and so when they have to draw their clothes they should know what their style should be.
 
 ![Modifications](Images/Modifications.jpg)
 ![Steps](Images/Steps.jpg)
