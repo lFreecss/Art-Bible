@@ -80,40 +80,55 @@ Depending on the artistic style chosen, you have to take into account the level 
 
 ### Character Art
 
-* Expresions
-* Posing
-* Height Scale comparison
-* Color Palette
-* Costume/Drapery
-* Style and construction
+What elements stand out in our characters:
+* Expresions.
+* Posing.
+* Height Scale comparison.
+* Color Palette.
+* Costume/Drapery.
+* Style and construction.
+* Animations
 
-Atmosphere/environment
-* Scale
-* Openness
-* Weather Conditions
-* Scheme
-* Props and other objects
-Camera
-* Camera Fx
-* Narrative/story sequences
-* Handling multiple output formats
-* field of view
+### Atmosphere/environment
+
+As with our characters, we must choose how to organize the environment of the entire game:
+* Scale.
+* Openness.
+* Weather Conditions.
+* Props and other objects.
+* Color palette.
+* Style and construction.
+* Animations
+
+### Color Palette
+
+We designate a set of colors suitable for the decoration of a certain element so that it is in tune with the rest:
+* Color Swatches.
+* Vibrance and values.
+* Environments with distinctly different palette choices.
+* Saturation .
+* Hues.
+
+### Camera
+* Narrative/story sequences.
+* Field of view.
 * Gameplay angle and character position
-Color Palette
-* Color Swatches
-* Vibrance and values
-* Environments with distinctly different palette choices
-* Saturation 
-* Hues
+* Lights and shadows. That will modify all the art of the game.
 
-Texture & surface
-Animations
-User interface
-* Font 
-* Animations 
-* Menu items and hud
-* Interface design technique
-Technical Guidelines
+### Texture & surface
+
+* Ambient occlusion. Predominant color.
+* Color Map. The majority of the painting will done in the color layers.
+* Graphin patterns. To add some details/effects to the texture.
+
+### User interface
+* Font.
+* Animations.
+* Menu items and hud.
+* Interface design technique.
+* Animations.
+
+### Technical Guidelines
 * Exporting
 * Naming Conventions
 * Resource Collection and structuring 
