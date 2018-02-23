@@ -103,6 +103,7 @@ What elements stand out in our characters. Sometimes this process is done in par
 
 ![Base](Images/base.png)
 ![Characters](Images/Characters.png)
+![Scale](Images/Scale.png)
 
 ### Atmosphere/environment
 
@@ -114,6 +115,8 @@ As with our characters, we must choose how to organize the environment of the en
 * Color palette.
 * Style and construction.
 * Animations.
+
+![Scale](Images/13.jpg)
 
 ### Color Palette
 
