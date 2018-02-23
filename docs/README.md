@@ -91,6 +91,8 @@ Depending on the artistic style chosen, you have to take into account the level 
 * Character details. 
 * Architectural details.
 
+![Detail](Images/EditorialIronyOfDiscussingZeldaArtStyles2.png)
+
 ### Character Art
 
 What elements stand out in our characters. Sometimes this process is done in parts:
@@ -117,7 +119,7 @@ As with our characters, we must choose how to organize the environment of the en
 * Style and construction.
 * Animations.
 
-![Scale](Images/13.jpg)
+![environment](Images/13.jpg)
 
 ### Color Palette
 
@@ -128,11 +130,17 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Saturation .
 * Hues.
 
+![Palette](Images/game_colors_over_the_years.png)
+![Palette 2](Images/journey_colors.jpg)
+
 ### Camera
 * Narrative/story sequences.
 * Field of view.
 * Gameplay angle and character position
 * Lights and shadows. That will modify all the art of the game.
+
+![Shadows](Images/sunpoint.png)
+![Light](Images/lighting_direction.png)
 
 ### Texture & surface
 
@@ -150,6 +158,8 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Font.
 * Animations.
 * Menu items and hud.
+
+![UI](Images/fantasy-game-gui2.JPG)
 
 ### Technical Guidelines
 
