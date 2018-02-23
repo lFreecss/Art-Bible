@@ -29,7 +29,7 @@ The reason why this document is made has a serie of objectives that it tries to 
 * Diagrams.
 * Completed Assets.
 * Work from other media.
-![Sources](Sources.png)
+![Sources](Images/Sources.png)
 
 ## During Art bible
 ### First steps to keep in mind
@@ -39,8 +39,8 @@ While creating the document, it is important to remember some tips:
 * Agree the formats and tools that best suit the team
 * Add small descriptions to the images and highlight important parts
 * You can add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element
-![Modifications](Modifications.jpg)
-![Steps](Steps.jpg)
+![Modifications](Images/Modifications.jpg)
+![Steps](Images/Steps.jpg)
 
 ### In case of limited/no art background
 
