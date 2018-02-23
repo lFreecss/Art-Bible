@@ -15,6 +15,9 @@ The reason why this document is made has a serie of objectives that it tries to 
 * Doubts are answered faster because we establish a series of guidelines.
 * Help new members adapt faster to work.
 * Help the marketing and communication sectors understand the game that is being done.
+
+![Tips](Images/tips.png)
+![Tips2](Images/tips2.png)
      
 ### Main points to take into account while doing an Art Bible
 * Target audience we want to reach.
@@ -120,6 +123,7 @@ As with our characters, we must choose how to organize the environment of the en
 * Animations.
 
 ![environment](Images/13.jpg)
+![environment](Images/environmentow.png)
 
 ### Color Palette
 
