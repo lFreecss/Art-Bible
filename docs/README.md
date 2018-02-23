@@ -21,6 +21,8 @@ The reason why this document is made has a serie of objectives that it tries to 
 * This document should make clear the most important ideas to new members.
 * It must be a document that clarifies all the doubts of the members of the group.
 * Make clear the concept of the game that you want to create to our sponsors.
+
+![Organization](Images/organization.png)
      
 ### Sources to help explain your Art Bible
 * Concept Art.
@@ -42,6 +44,7 @@ While creating the document, it is important to remember some tips:
 
 ![Modifications](Images/Modifications.jpg)
 ![Steps](Images/Steps.jpg)
+![Rules](Images/Rules.jpg)
 
 ### In case of limited/no art background
 
@@ -84,7 +87,7 @@ Depending on the artistic style chosen, you have to take into account the level 
 
 ### Character Art
 
-What elements stand out in our characters:
+What elements stand out in our characters. Sometimes this process is done in parts:
 * Expresions.
 * Posing.
 * Height Scale comparison.
@@ -92,6 +95,9 @@ What elements stand out in our characters:
 * Costume/Drapery.
 * Style and construction.
 * Animations.
+
+![Base](Images/base.png)
+![Characters](Characters.png)
 
 ### Atmosphere/environment
 
