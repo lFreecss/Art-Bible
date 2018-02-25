@@ -4,15 +4,22 @@ Hi, I'm David, a student at the [Polytechnic University of Catalonia](https://ww
 
 Before starting the description of this research, I would like to mention the web pages [Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html), [Game Art Bible](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art) which contain very complete information on the subject and the [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) conferences that have provided me with many examples of the current industry. I encourage you to visit their pages.
 
-## General Tips
-### What's an Art Bible?
+## What's an Art Bible?
 
-An Art Bible is a document created by the Art Director to communicate to the art team exactly what style the art assets should match. Its main objective is to establish a guide document that contains the details of what the game is going to look. This document is created after the Game Design Document (GDD) and before any art production. 
+An Art Bible is a document created by the Art Director created after the Game Design Document (GDD) and before any art production. This document contains the idea of art that will appear in our videogame, keep consistency in all the artistic elements of the game, help the team get an idea of the game that is going to be done and establish a series of guidelinesin order to answer any questions during the artistic process. 
 
 ### Principal Objectives
 
 The reason why this document is made has a serie of objectives that it tries to fulfill:
-* Explain the idea of art that will appear in our videogame.
+* Serve as a guide for the entire **artistic team**. It must be a document that clarifies all the doubts of the members of the group. For this reason, this document could follow some of the guidelines as:
+     * Use sources as concept **art, photography, simple models, diagrams, completed assets or work from other media**.
+     * Add a lot of text can complicate an explanation, it is much better to resort to visual content.
+     * Agree the formats and tools that best suit the team.
+     * Add small descriptions to the images and highlight important parts.
+     * Add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element.
+     * Add **COLOR!** Color is one of the most important factors for the viewing of a video game. We could talk a lot of things about color but I attach an article that perfectly explains all the things to take into account. [Color in games](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php)
+     * Writing in the previous point about the color, there can be many sections of art, you can always establish a communication structure between sectors based on colors. For example, there are artists who are only responsible for drawing clothes in general, you can establish that the concept art made in red are those of the enemies and so when they have to draw their clothes they should know what their style should be.
+     
 * Keep consistency in all the artistic elements of the game.
 * Help the team get an idea of the game that is going to be done.
 * Doubts are answered faster because we establish a series of guidelines.
@@ -22,44 +29,14 @@ The reason why this document is made has a serie of objectives that it tries to 
 ![Tips](Images/tips.png)
 ![Tips2](Images/tips2.png)
      
-### Main points to take into account while doing an Art Bible
-* Target audience we want to reach.
-* This document should make clear the most important ideas to new members.
-* It must be a document that clarifies all the doubts of the members of the group.
-* Make clear the concept of the game that you want to create to our sponsors.
+
 
 ![Organization](Images/organization.png)
      
-### Sources to help explain your Art Bible
-* Concept Art.
-* Photograpy.
-* Simple Models.
-* Diagrams.
-* Completed Assets.
-* Work from other media.
-![Sources](Images/Sources.png)
-
-## During Art bible
-### First steps to keep in mind
-
-While creating the document, it is important to remember some tips:
-* Adding a lot of text can complicate an explanation, it is much better to resort to visual content
-* Agree the formats and tools that best suit the team
-* Add small descriptions to the images and highlight important parts
-* You can add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element
-* COLOR! Color is one of the most important factors for the viewing of a video game. We could talk a lot of things about color but I attach an article that perfectly explains all the things to take into account. [Color in games](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php)
-* There can be many sections of art, you can always establish a communication structure between sectors based on colors. For example, there are artists who are only responsible for drawing clothes in general, you can establish that the concept art made in red are those of the enemies and so when they have to draw their clothes they should know what their style should be.
 
 ![Modifications](Images/Modifications.jpg)
 ![Steps](Images/Steps.jpg)
 ![Rules](Images/Rules.jpg)
-
-### In case of limited/no art background
-
-If it is the case that our team does not stand out in the artistic field you can always follow these tips:
-* Gather and include good reference examples.
-* Prepare color palettes in the images that best suit your purpose.
-* Explore several art reference websites, such as: [Pinterest](www.pinterest.com), [ArtStation](www.artstation.com), [Deviantart](https://www.deviantart.com/)...
 
 ## Content of an Art Bible
 ### References
