@@ -10,6 +10,7 @@ An Art Bible is a document created by the Art Director created after the Game De
 
 ### Principal Objectives
 
+![Tips](Images/tips.png)
 This guide helps **yourself** but also the reason why this document is made has a serie of objectives that it tries to fulfill:
 * Serve as a guide for the entire **artistic team**. It must be a document that clarifies all the doubts of the members of the group. For this reason, this document could follow some of the guidelines as:
      * Use sources as concept **art, photography, simple models, diagrams, completed assets or work from other media**.
@@ -18,27 +19,20 @@ This guide helps **yourself** but also the reason why this document is made has 
      * Add small descriptions to the images and highlight important parts.
      * Add priorities about the importance of a certain artistic element and/or a step-by-step list of how to make a certain element.
      * Add **COLOR!** Color is one of the most important factors for the viewing of a video game. We could talk a lot of things about color but I attach an article that perfectly explains all the things to take into account. [Color in games](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php)
-     * Writing in the previous point about the color, there can be many sections of art, you can always establish a communication structure between sectors based on colors. For example, there are artists who are only responsible for drawing clothes in general, you can establish that the concept art made in red are those of the enemies and so when they have to draw their clothes they should know what their style should be.    
+     * Writing in the previous point about the color, there can be many sections of art, you can always establish a communication structure between sectors based on colors. For example, there are artists who are only responsible for drawing clothes in general, you can establish that the concept art made in red are those of the enemies and so when they have to draw their clothes they should know what their style should be.  
+     
+![Modifications](Images/Modifications.jpg)
+![Steps](Images/Steps.jpg)
+![Rules](Images/Rules.jpg)
 * Serve as a guide for the **new members**. This would help:
      * Doubts are answered faster because we establish a series of guidelines.
      * Adapt faster to work.
+     
+![Organization](Images/organization.png)
 * It is useful to offer content later to our **target audience**:
      * Much of the material that comes out from the art bible later comes out in form of additional content.
 * Help the **marketing and communication sectors** understand the game that is being done.
 * Useful to catch **sponsors**.
-
-
-![Tips](Images/tips.png)
-![Tips2](Images/tips2.png)
-     
-
-
-![Organization](Images/organization.png)
-     
-
-![Modifications](Images/Modifications.jpg)
-![Steps](Images/Steps.jpg)
-![Rules](Images/Rules.jpg)
 
 ## Content of an Art Bible
 ### References
