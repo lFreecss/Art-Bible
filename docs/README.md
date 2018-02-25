@@ -22,10 +22,11 @@ This guide helps **yourself** but also the reason why this document is made has 
 * Serve as a guide for the **new members**. This would help:
      * Doubts are answered faster because we establish a series of guidelines.
      * Adapt faster to work.
-* Help the team get an idea of the game that is going to be done.
-* Doubts are answered faster because we establish a series of guidelines.
-* Help new members adapt faster to work.
-* Help the marketing and communication sectors understand the game that is being done.
+* It is useful to offer content later to our **target audience**:
+     * Much of the material that comes out from the art bible later comes out in form of additional content.
+* Help the **marketing and communication sectors** understand the game that is being done.
+* Useful to catch **sponsors**.
+
 
 ![Tips](Images/tips.png)
 ![Tips2](Images/tips2.png)
