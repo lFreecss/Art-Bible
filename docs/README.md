@@ -1,6 +1,9 @@
 # ART BIBLE
 
 Hi, I'm David, a student at the [Polytechnic University of Catalonia](https://www.citm.upc.edu/). I have done a research on how to make an Art Bible during the realization of my second college career project.
+
+Before starting the description of this research, I would like to mention the web pages [Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html), [Game Art Bible](https://es.slideshare.net/pencillati/game-art-bible-secret-sauce-to-making-great-game-art) which contain very complete information on the subject and the [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) conferences that have provided me with many examples of the current industry. I encourage you to visit their pages.
+
 ## General Tips
 ### What's an Art Bible?
 
