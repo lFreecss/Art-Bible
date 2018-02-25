@@ -1,6 +1,6 @@
 # ART BIBLE
 
-Hi, I'm David, a student at the Polytechnic University of Catalonia. I have done a research on how to make an Art Bible during the realization of my second college career project.
+Hi, I'm David, a student at the [Polytechnic University of Catalonia](https://www.citm.upc.edu/). I have done a research on how to make an Art Bible during the realization of my second college career project.
 ## General Tips
 ### What's an Art Bible?
 
