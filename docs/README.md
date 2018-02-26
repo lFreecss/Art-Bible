@@ -40,7 +40,7 @@ This guide helps **yourself** but also the reason why this document is made has 
 
 Finding information about Art Bibles I concluded that to have a good Art Bible must be 5 basic sections:
 
-### References
+### 1.References
 
 Before starting to establish an art style, we should first look for references of elements similar to what we intend to achieve. The main sources to which to look for references would be:
 * Ilustrations.
@@ -52,7 +52,7 @@ Before starting to establish an art style, we should first look for references o
 
 ![Rules](Images/References.png)
 
-### Art style
+### 2.Art style
 
 Once we have obtained our references, we have to apply an identifiable set of characteristics that allow us to group a series of works or authors, which will share stable elements in terms of their form and contents. In these elements we must take into account:
 
@@ -91,30 +91,22 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 ![3](Images/590_05-ColorMap_notext_01.jpg)
 ![4](Images/590_07-GraphicPatterns_notext_01.jpg)
 
-### Color Palette
+### 3. Color Palette
 
-We designate a set of colors suitable for the decoration of a certain element so that it is in tune with the rest:
-* Color Swatches.
-* Vibrance and values.
-* Environments with distinctly different palette choices.
-* Saturation .
-* Hues.
+As I mentioned before, **color** is one of the most important artistic factors. It is very useful to leave a pragmatic image to the player. That's the reason why we designate a set of colors suitable for the decoration of a certain element so that it is in tune with the rest. In this section it is important to write elements like hues, saturation and  vibrance&values.
 
 ![Palette](Images/game_colors_over_the_years.png)
 ![Palette 2](Images/journey_colors.jpg)
 ![environment](Images/environmentow.png)
 
-
-
-### User interface
-* The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. An example would be when in League of Legends you choose a character that presents a high level of detail in the UI and then, in gameplay is a simpler model.
-* Font.
-* Animations.
-* Menu items and hud.
+### 4. User interface
+The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. That's why you have to decide the whole artistic section of the UI separately, besides taking into account elements such as fonts, animations and the menu items and hud.
 
 ![UI](Images/fantasy-game-gui2.JPG)
 
-### Technical Guidelines
+### 5. Technical Guidelines
+
+Writing the most technical part of the document. It is a section that is used especially for groups. Even so, today you usually leave a record of the tools with which you have built a certain element. The points of interest to write in this section would be:
 
 * Exporting. It is important to know in what formats we are going to save the files.
 * Naming Conventions. Nomenclature.
@@ -123,6 +115,8 @@ We designate a set of colors suitable for the decoration of a certain element so
 * Tools to use.
 
 ![Exporting](Images/Exporting.png)
+
+**_Thanks to read this research and I hope it was useful for your future projects_**
 
 ## Bibliography
 ### Information
