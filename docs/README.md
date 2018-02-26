@@ -116,7 +116,7 @@ Writing the most technical part of the document. It is a section that is used es
 
 ![Exporting](Images/Exporting.png)
 
-**_Thanks to read this research and I hope it was useful for your future projects_**
+**_Thanks for reading this research. I hope it will be usdful for your future projects._**
 
 ## Bibliography
 ### Information
