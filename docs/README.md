@@ -64,14 +64,9 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 **Atmosphere/environment**. As with our characters, we must choose how to organize the environment of the entire game. Props and other objects, architectural proportions, climate, time period, openness and animations are examples of important sections that need explanation.
 
 ![environment](Images/13.jpg)
-![environment](Images/environmentow.png)
 ![Environment](Images/Environment.png)
-![Scale](Images/55542332.jpg)
-![Scale](Images/Scale.png)
-**L.O.D /Level of details**
 
-Depending on the artistic style chosen, you have to take into account the level of detail you want to reach. For example, a videogame centered on a cartoon style will not demand a level of detail equal to a realistic style videogame. The points taken into account in the level of detail are:
-* The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. An example would be when in League of Legends you choose a character that presents a high level of detail in the UI and then, in gameplay is a simpler model.
+**L.O.D /Level of details**. Depending on the artistic style chosen, you have to take into account the level of detail you want to reach. For example, a videogame centered on a cartoon style will not demand a level of detail equal to a realistic style videogame. The points taken into account in the level of detail are:
 * How to achieve increase/decrease in details. Here we establish keys that would help a little detailed element transmit a lot of detail or how to extract details to an element that goes beyond the established detail.
 * What and what not to detail. It is important to take into account the important characteristics of an element that must be detailed and those that are not so important.
 * Character details. 
@@ -80,7 +75,9 @@ Depending on the artistic style chosen, you have to take into account the level 
 ![Detail](Images/EditorialIronyOfDiscussingZeldaArtStyles2.png)
 
 
-
+![Scale](Images/55542332.jpg)
+![Scale](Images/Scale.png)
+![environment](Images/environmentow.png)
 ### Color Palette
 
 We designate a set of colors suitable for the decoration of a certain element so that it is in tune with the rest:
@@ -114,7 +111,7 @@ We designate a set of colors suitable for the decoration of a certain element so
 ![4](Images/590_07-GraphicPatterns_notext_01.jpg)
 
 ### User interface
-
+* The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. An example would be when in League of Legends you choose a character that presents a high level of detail in the UI and then, in gameplay is a simpler model.
 * Font.
 * Animations.
 * Menu items and hud.
