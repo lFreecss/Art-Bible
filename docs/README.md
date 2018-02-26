@@ -36,7 +36,7 @@ This guide helps **yourself** but also the reason why this document is made has 
 
 ## Content of an Art Bible
 
-**_Here are some examples of Artibles that I have found_** [The Trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf) / [Liberated Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html)
+**_Here are some examples of Art Bibles that I have found_** [The Trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf) / [Liberated Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html)
 
 Finding information about Art Bibles I concluded that to have a good Art Bible must be 5 basic sections:
 
