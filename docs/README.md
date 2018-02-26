@@ -74,10 +74,23 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 
 ![Detail](Images/EditorialIronyOfDiscussingZeldaArtStyles2.png)
 
+**Scale**. It is important to take into account the proportions of each of the elements of our game. Still there are videogames that, to improve the player experience, sacrifice a realistic scale to put one of the most optimal.
 
 ![Scale](Images/55542332.jpg)
 ![Scale](Images/Scale.png)
-![environment](Images/environmentow.png)
+
+**Camera**. The decision we make when positioning our camera will determine our story sequences, the field of view, gameplay angle and character position and the lights and shadows in game. That will modify all the art of the game.
+
+![Shadows](Images/sunpoint.png)
+![Light](Images/lighting_direction.png)
+
+**Texture & surface**.It is usually a section that is only written in 3D games. However, its highlights would be the predominant color of the texture, the ambient occlusion, the color map done in color layers and the graphic patterns, to add some details/effects to the texture.
+
+![1](Images/590_01-DefiningColor_notext_02.jpg)
+![2](Images/590_02-AmbientOcclusion_notext_01.jpg)
+![3](Images/590_05-ColorMap_notext_01.jpg)
+![4](Images/590_07-GraphicPatterns_notext_01.jpg)
+
 ### Color Palette
 
 We designate a set of colors suitable for the decoration of a certain element so that it is in tune with the rest:
@@ -89,26 +102,9 @@ We designate a set of colors suitable for the decoration of a certain element so
 
 ![Palette](Images/game_colors_over_the_years.png)
 ![Palette 2](Images/journey_colors.jpg)
+![environment](Images/environmentow.png)
 
-**Camera**
-* Narrative/story sequences.
-* Field of view.
-* Gameplay angle and character position
-* Lights and shadows. That will modify all the art of the game.
 
-![Shadows](Images/sunpoint.png)
-![Light](Images/lighting_direction.png)
-
-**Texture & surface**
-
-* Ambient occlusion. Predominant color.
-* Color Map. The majority of the painting will done in the color layers.
-* Graphin patterns. To add some details/effects to the texture.
-
-![1](Images/590_01-DefiningColor_notext_02.jpg)
-![2](Images/590_02-AmbientOcclusion_notext_01.jpg)
-![3](Images/590_05-ColorMap_notext_01.jpg)
-![4](Images/590_07-GraphicPatterns_notext_01.jpg)
 
 ### User interface
 * The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. An example would be when in League of Legends you choose a character that presents a high level of detail in the UI and then, in gameplay is a simpler model.
