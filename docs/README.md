@@ -36,7 +36,7 @@ This guide helps **yourself** but also the reason why this document is made has 
 
 ## Content of an Art Bible
 
-**_Aquí dejo algunos ejemplos de Art bibles que he encontrado_** [The Trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf) [Liberated Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html)
+**_Here are some examples of Artibles that I have found_** [The Trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf) / [Liberated Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html)
 
 Finding information about Art Bibles I concluded that to have a good Art Bible must be 5 basic sections:
 
@@ -61,18 +61,10 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 ![Base](Images/base.png)
 ![Characters](Images/Characters.png)
 
+**Atmosphere/environment**. As with our characters, we must choose how to organize the environment of the entire game. Props and other objects, architectural proportions, climate, time period, openness and animations are examples of important sections that need explanation.
 
-
-
-* Environment Scale.
-* Architectural Proportions.
-* Characters Proportions.
-* Technologies in use for hint of advancements.
-* Methods of construction.
-* Climate.
-* Time period.
-* Who lives in the environment.
-
+![environment](Images/13.jpg)
+![environment](Images/environmentow.png)
 ![Environment](Images/Environment.png)
 ![Scale](Images/55542332.jpg)
 ![Scale](Images/Scale.png)
@@ -88,20 +80,6 @@ Depending on the artistic style chosen, you have to take into account the level 
 ![Detail](Images/EditorialIronyOfDiscussingZeldaArtStyles2.png)
 
 
-
-**Atmosphere/environment**
-
-As with our characters, we must choose how to organize the environment of the entire game:
-* Scale.
-* Openness.
-* Weather Conditions.
-* Props and other objects.
-* Color palette.
-* Style and construction.
-* Animations.
-
-![environment](Images/13.jpg)
-![environment](Images/environmentow.png)
 
 ### Color Palette
 
