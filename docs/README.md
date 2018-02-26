@@ -35,6 +35,11 @@ This guide helps **yourself** but also the reason why this document is made has 
 * Useful to catch **sponsors**.
 
 ## Content of an Art Bible
+
+**_Aquí dejo algunos ejemplos de Art bibles que he encontrado_** [The Trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf) [Liberated Pixel Cup](http://lpc.opengameart.org/static/lpc-style-guide/index.html)
+
+Finding information about Art Bibles I concluded that to have a good Art Bible must be 5 basic sections:
+
 ### References
 
 Before starting to establish an art style, we should first look for references of elements similar to what we intend to achieve. The main sources to which to look for references would be:
@@ -50,6 +55,15 @@ Before starting to establish an art style, we should first look for references o
 ### Art style
 
 Once we have obtained our references, we have to apply an identifiable set of characteristics that allow us to group a series of works or authors, which will share stable elements in terms of their form and contents. In these elements we must take into account:
+
+**Character Art**. What elements stand out in our characters. In this section we take into account elements such as expresions, poses, physical construction, costumes, animations... 
+
+![Base](Images/base.png)
+![Characters](Images/Characters.png)
+
+
+
+
 * Environment Scale.
 * Architectural Proportions.
 * Characters Proportions.
@@ -61,7 +75,7 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 
 ![Environment](Images/Environment.png)
 ![Scale](Images/55542332.jpg)
-
+![Scale](Images/Scale.png)
 **L.O.D /Level of details**
 
 Depending on the artistic style chosen, you have to take into account the level of detail you want to reach. For example, a videogame centered on a cartoon style will not demand a level of detail equal to a realistic style videogame. The points taken into account in the level of detail are:
@@ -73,20 +87,7 @@ Depending on the artistic style chosen, you have to take into account the level 
 
 ![Detail](Images/EditorialIronyOfDiscussingZeldaArtStyles2.png)
 
-**Character Art**
 
-What elements stand out in our characters. Sometimes this process is done in parts:
-* Expresions.
-* Posing.
-* Height Scale comparison.
-* Color Palette.
-* Costume/Drapery.
-* Style and construction.
-* Animations.
-
-![Base](Images/base.png)
-![Characters](Images/Characters.png)
-![Scale](Images/Scale.png)
 
 **Atmosphere/environment**
 
