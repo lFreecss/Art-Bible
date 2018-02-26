@@ -62,7 +62,7 @@ Once we have obtained our references, we have to apply an identifiable set of ch
 ![Environment](Images/Environment.png)
 ![Scale](Images/55542332.jpg)
 
-### L.O.D /Level of details
+**L.O.D /Level of details**
 
 Depending on the artistic style chosen, you have to take into account the level of detail you want to reach. For example, a videogame centered on a cartoon style will not demand a level of detail equal to a realistic style videogame. The points taken into account in the level of detail are:
 * The differences of detail in narrative, gameplay and UI. Sometimes different levels of detail are used for certain things in a videogame. An example would be when in League of Legends you choose a character that presents a high level of detail in the UI and then, in gameplay is a simpler model.
@@ -73,7 +73,7 @@ Depending on the artistic style chosen, you have to take into account the level 
 
 ![Detail](Images/EditorialIronyOfDiscussingZeldaArtStyles2.png)
 
-### Character Art
+**Character Art**
 
 What elements stand out in our characters. Sometimes this process is done in parts:
 * Expresions.
@@ -88,7 +88,7 @@ What elements stand out in our characters. Sometimes this process is done in par
 ![Characters](Images/Characters.png)
 ![Scale](Images/Scale.png)
 
-### Atmosphere/environment
+**Atmosphere/environment**
 
 As with our characters, we must choose how to organize the environment of the entire game:
 * Scale.
@@ -114,7 +114,7 @@ We designate a set of colors suitable for the decoration of a certain element so
 ![Palette](Images/game_colors_over_the_years.png)
 ![Palette 2](Images/journey_colors.jpg)
 
-### Camera
+**Camera**
 * Narrative/story sequences.
 * Field of view.
 * Gameplay angle and character position
@@ -123,7 +123,7 @@ We designate a set of colors suitable for the decoration of a certain element so
 ![Shadows](Images/sunpoint.png)
 ![Light](Images/lighting_direction.png)
 
-### Texture & surface
+**Texture & surface**
 
 * Ambient occlusion. Predominant color.
 * Color Map. The majority of the painting will done in the color layers.
